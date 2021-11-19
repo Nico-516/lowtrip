@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: rgb(25, 97, 61);
+}
+
+.art {
+    background-image: url(https://content.r9cdn.net/rimg/dimg/42/2f/addb7f9b-city-4012-16916c05055.jpg?crop=true&width=1366&height=768&xhint=1627&yhint=1054);
+    min-height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.text {
+    width: 80%;
+    min-width: 70%;
+    max-width: 500px;
+    min-height: 500px;
+    margin: 0 auto;
+    background-color: rgb(147, 182, 169);
+}
+
+h2 {
+    font-size: 190%;
+}
+
+p {
+    font-size: 150%;
+}
+
+ul {
+    font-size: 150%;
+    list-style-type: none;
+}
+
+.caption {
+    font-size: 150%;
+}
+
+.image {
+    width: 90%;
+}
+
+input {
+    width: 50%;
+}
+
+.nav {
+    margin-top: 0px;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.visual {
+    width: 100px;
+}
